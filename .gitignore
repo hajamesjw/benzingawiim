@@ -1,0 +1,25 @@
+*.class
+*.swp
+*.cache
+*~
+
+bin/**/*
+target/**/*
+build/**/*
+gen/**/*
+
+# tmp source folder
+tmp/**/*
+
+
+# js plugin
+WebContent/js_plugin/lib/**/*
+
+# mac files
+.DS_Store
+
+# general
+.project
+.classpath
+.settings/
+
